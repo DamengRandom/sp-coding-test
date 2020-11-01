@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/* @import "@tailwindcss/ui"; */
+
+/* custom css */
+.card-dropdown__active { /* Followed the BEM methodology */
+  position: absolute;
+  bottom: 40px;
+}
+
+.card-skeleton-loader {
+  width: 355px;
+  height: 386px;
+}
