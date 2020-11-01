@@ -48,7 +48,7 @@ yarn test
 
 ## Todo List
 - Add `prop-types` for each components
-- Complete unit tests
-- Components refactor (still need polish)
-- consider to use `FormContext` `useFormContext` pattern to work on it
-- form need some refactor work
+- Complete unit tests 
+- Components refactor (polish)
+- consider to use `FormContext` `useFormContext` pattern for the form
+- form need some refactor work (polish)
